@@ -23,7 +23,7 @@ Apple Shortcuts
 	- Get Battery Level
 	- Get contents of URL ``http://localhost:3000/api/update/macbook``
 	- Method: POST
-	- Headers: `Key: Authorization `Value: Bearer API_KEY`
+	- Headers: `Key: Authorization` `Value: Bearer API_KEY`
     - Request Body: JSON, Key ``level``, Type ``number``, Value ``Battery Level``
 3. Run the shortcut
 
