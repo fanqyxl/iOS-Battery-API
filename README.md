@@ -10,7 +10,11 @@ Quick start
 API_KEY=changme
 ```
 
-2. Run the server with Bun:
+2. Install packages + run the server with Bun:
+
+```bash
+bun i
+```
 
 ```bash
 bun run start
