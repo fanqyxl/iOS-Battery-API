@@ -13,7 +13,7 @@ API_KEY=changme
 2. Run the server with Bun:
 
 ```bash
-bun run index.ts
+bun run start
 ```
 
 Apple Shortcuts
